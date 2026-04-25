@@ -1,0 +1,16 @@
+.env
+.venv/
+.venv310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+chroma_db/
+dist/
+build/
+{backend/
